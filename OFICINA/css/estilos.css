@@ -7,7 +7,15 @@ body {
     padding:0 ;
     text-align: center;
   }
-  
+nav
+{
+  text-align: center;
+}
+  nav h1
+{
+  color:white;
+}
+
   input[type="text"], input[type="password"]
   {
     display: block;

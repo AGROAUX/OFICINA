@@ -10,14 +10,16 @@ body {
 nav
   {
  
-    text-decoration: none;
-    color:white;
+    
+  background-color: blue;
   
   
 }
 
-a
+ nav a
 {
+  color: white;
+  text-decoration: none;
 text-align: center;
 }
 

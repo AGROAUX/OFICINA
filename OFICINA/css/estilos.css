@@ -5,5 +5,35 @@ body {
     font-style: normal;
     margin:0 ;
     padding:0 ;
+    text-align: center;
   }
   
+  input[type="text"], input[type="password"]
+  {
+    display: block;
+    outline:none ;
+    width:350px ;
+    margin:20px auto;
+    border:2px solid gray;
+    border-radius:3px;
+
+  }
+
+  input[type="submit"]
+  {
+  display: block;
+  outline:none ;
+  width:350px;
+  margin:10px auto;
+  border:2px solid gray;
+  border-radius:3px ;
+  color:white ;
+  background-color: blue;  
+  cursor:pointer ;
+  }
+
+  input[type="submit"]:hover
+  {
+  background-color: red ;  
+  }
+

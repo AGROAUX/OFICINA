@@ -7,11 +7,18 @@ body {
     padding:0 ;
     text-align: center;
   }
-  nav a
+nav
+  {
+ 
+    text-decoration: none;
+    color:white;
+  
+  
+}
+
+a
 {
-  text-align: center;
-  color:white;
-  text-decoration: none;
+   text-align: center;
 }
 
   input[type="text"], input[type="password"]
